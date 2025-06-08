@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+	background-image: url("bg.jpg");
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:hover {
+    color: darkred;
+}
+
+img {
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #888;
+}
